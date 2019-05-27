@@ -24,3 +24,10 @@ pipのインストール
 ```
 brew install python
 ```
+
+追加ライブラリーのインストール
+```
+pip install requests
+pip install bs4
+```
+
