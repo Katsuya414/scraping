@@ -31,3 +31,24 @@ pip install requests
 pip install bs4
 ```
 
+## サーバアプリケーションを動かす方法
+```
+python2 scraping.py
+```
+
+実行結果の例
+
+```
+shimakatsuyanoMacBook-puro:kadai shimakatsuya$ python2 scraping.py
+Please Enter theme: shibuya
+ディー・エヌ・エー
+パルコ
+サイバーエージェント
+ＧＭＯペイメントゲートウェイ
+カカクコム
+エービーシー・マート
+ＧＭＯインターネット
+インフォコム
+東京急行電鉄
+デジタルガレージ
+```
