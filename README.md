@@ -51,4 +51,17 @@ Please Enter theme: shibuya
 インフォコム
 東京急行電鉄
 デジタルガレージ
+
+shimakatsuyanoMacBook-puro:kadai shimakatsuya$ python2 sc4.py
+Please Enter theme: virtual-reality
+ソニー
+クリーク・アンド・リバー社
+カドカワ
+エレコム
+ＩＭＡＧＩＣＡ　ＧＲＯＵＰ
+バンダイナムコＨＬＤＧ
+カプコン
+ディー・エヌ・エー
+スクウェア・エニックスＨＬＤＧ
+セガサミーＨＬＤＧ
 ```
