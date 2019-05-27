@@ -8,8 +8,11 @@ Python
 
 ## 実際に構築した環境について
 OS macOS ver 10.13.6
+
 python version Python 2.7.15
+
 追加ライブラリー requests, bs4
+
 ## 環境構築方法
 Homebrewのインストール
 
