@@ -52,7 +52,7 @@ Please Enter theme: shibuya
 東京急行電鉄
 デジタルガレージ
 
-shimakatsuyanoMacBook-puro:kadai shimakatsuya$ python2 sc4.py
+shimakatsuyanoMacBook-puro:kadai shimakatsuya$ python2 scraping.py
 Please Enter theme: virtual-reality
 ソニー
 クリーク・アンド・リバー社
